@@ -30,8 +30,10 @@ If your IPP changes or builds on an existing policy, please briefly state said p
 The Proposed Policy Change.
 ---------------------------
 
-How will this benefit the company? 
+How Will This Benefit the Company? 
 -----------------------------------
 
-Please state any other relevant motivations.
+Please State Any Other Relevant Motivations.
 --------------------------------------------
+
+**** This document will be saved in the U drive.
