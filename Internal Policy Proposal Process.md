@@ -223,10 +223,30 @@ If a proposal produces a Rejected result, then it is up to the author to either
 take it back to the draft stage and try again for the next voting cycle, or
 withdraw the proposal.
 
+If the IPP is on the Meta track, if the proposal passes, then the IPP Editors are responsible for implementing those changes before the next ballot.
+
+### Voting Cycles
+
+Blockchains community votes will take place quarterly on the following days, starting at 12:00 PM pacific time, and lasting for 7 days (168 hours).
+
+-   Third Friday of January
+
+-   Third Friday of April
+
+-   Third Friday of July
+
+-   Third Friday of October
+
+### Support Required
+
+For the results of a ballot to be considered valid, a minimum of 20 employees must have participated in the vote.
+For an IPP to pass, it must win more than 50 percent support.
+
+
 Stage VI: Executive Report and Review
 -------------------------------------
 
-If a proposal produces an Accepted result, notification will be sent to voting
+If a proposal that is not a Meta track proposal passes the community vote, notification will be sent to voting
 executive leadership (VPs, C-suite, Jeff, David), and they will review the
 proposal.
 
