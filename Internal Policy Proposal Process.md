@@ -1,7 +1,7 @@
 Internal Policy Discovery Plan
 ==============================
 
-**IPP-1: The Internal Policy Proposal Process**
+**IPP: The Internal Policy Proposal Process**
 
 *Heavily influenced and sometimes straight borrowed from* [Aragon’s AGP
 process](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-1.md)
